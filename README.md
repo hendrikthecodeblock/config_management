@@ -13,6 +13,14 @@ This document outlines the standards and process for configuration management
 * Access to Github config_management repository will be required
 * Team access to the config_management repository will be required
 
+## Best Practices
+
+* always first create your test branch from the config_production branch
+* branch names should be as follow test_config_nameOfFeature
+* always push the test banch you working on
+* when creating the PR ensure you set to merge to the config_test branch
+* always at a reviewer to your PR request
+
 ### Pre-Requisites 
 
 * Ensure you have cloned the config managment repository to your local machine
