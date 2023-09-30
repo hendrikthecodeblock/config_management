@@ -10,7 +10,7 @@ This document outlines the standards and process for configuration management
 
 ### Dependencies
 
-* Access to Github will be required
+* Access to Github config_management repository will be required
 * Team access to the config_management repository will be required
 
 ### Pre-Requisites 
