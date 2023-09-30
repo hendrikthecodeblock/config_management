@@ -34,7 +34,17 @@ git clone git@github.com:hendrikthecodeblock/config_management.git
 ```
 * Ensure you are on the config_production branch before creating a new branch
 ```
-git checkout -b test_updatePrinterDriverFix
+git checkout -b <test_config_nameOfFeature>
+```
+* Make the required changes or add new configuration files
+* Once changes has been made commit your changes to your local git repo
+```
+git add .
+git commit -m "Add fix for printer driver to config"
+```
+* Push your changes to github
+```
+git push origin <test_config_nameOfFeature>
 ```
 
 ## Help
