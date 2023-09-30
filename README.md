@@ -13,7 +13,7 @@ This document outlines the standards and process for configuration management
 * Access to Github config_management repository will be required
 * Team access to the config_management repository will be required
 
-## Best Practices
+### Best Practices
 
 * always first create your test branch from the config_production branch
 * branch names should be as follow test_config_nameOfFeature
@@ -26,12 +26,11 @@ This document outlines the standards and process for configuration management
 * Ensure you have cloned the config managment repository to your local machine
 * Any modifications needed to be made to files/folders
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+### Process Outline
+* Copy Repository URL under code in the config_management repo
+* Navigate to the directory you want to clone the repo to on your local machine
 ```
-code blocks for commands
+git clone git@github.com:hendrikthecodeblock/config_management.git
 ```
 
 ## Help
