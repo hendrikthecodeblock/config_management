@@ -19,3 +19,5 @@ application-context}/tenants/${tenantId}/stores/${storeId}/"/> </parameters>
 --ADD DARK MODE--
 
 --ADD LOYALTY--
+
+--ADD REWARDS--
