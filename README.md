@@ -49,13 +49,6 @@ git push origin <test_config_nameOfFeature>
 * Create PR on github (NB ensure that you are merging into the test_config branch
 * Once All Tests has passed another PR will be created to merge into the config_production branch
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Version History
 
 * 0.1
