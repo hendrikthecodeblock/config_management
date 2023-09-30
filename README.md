@@ -32,6 +32,10 @@ This document outlines the standards and process for configuration management
 ```
 git clone git@github.com:hendrikthecodeblock/config_management.git
 ```
+* Ensure you are on the config_production branch before creating a new branch
+```
+git checkout -b test_updatePrinterDriverFix
+```
 
 ## Help
 
