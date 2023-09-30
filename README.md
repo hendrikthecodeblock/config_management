@@ -46,7 +46,7 @@ git commit -m "Add fix for printer driver to config"
 ```
 git push origin <test_config_nameOfFeature>
 ```
-* Create PR on github (NB ensure that you are merging into the test_config branch
+* Create PR on github (NB ensure that you are merging into the test_config branch)
 * Once All Tests has passed another PR will be created to merge into the config_production branch
 
 ## Version History
