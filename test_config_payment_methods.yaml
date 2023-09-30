@@ -1,5 +1,0 @@
-<function id="C.01100202502.00" applicationId="com.gk_software.cst.accounting.safe_bag_cst" applicationUrl="${launchpad-apps-base-url}/accounting/safe_bag_cst/" caption="${pos_server.safe_bag_packing_cst.caption}" icon="${launchpad-apps-base- url}/accounting/safe_bag_cst/icon/safe_bag_packing.svg">
-<parameters>
-<parameter name="mode" value="PACKING"/> <parameter name="sdc-url" value="${server}/${sdc-
-application-context}/tenants/${tenantId}/stores/${storeId}/"/> </parameters>
-</function>
